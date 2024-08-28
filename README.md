@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# Bem vindos ao meu GitHub!  😄
+---------------------------------------------------------------------------------------------------------------
+- 🔭 Me chamo Marcelo 
+- 💬 Eu sou estudante de ADS 5 periodo - Fametro
+- ⚡ Estou colaborando a minha jornada como Dev e todos meus estudos de computação
 <!--
 **MSilva505/MSilva505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
