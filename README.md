@@ -9,7 +9,7 @@
 ## Status 
 
 ![Status do Msilva505](https://github-readme-stats.vercel.app/api?username=MSilva505&show_icons=true&theme=dracula)
-<img loading= "lazy" height= "180" src="https://github-redme-stats.vencel.app/api/top-lags/username=MSilva505&layout=compact&langs_count=7&theme=dracula">
+<img loading= "lazy" height= "180" src="https://github-readme-stats.vencel.app/api/top-lags/?username=MSilva505&layout=compact&langs_count=7&theme=dracula">
           
           
           
