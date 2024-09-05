@@ -4,7 +4,12 @@
 - ⚡ Estou colaborando a minha jornada como Dev e todos meus estudos de computação.
 - 📫  [acesse ao meu linkedIn.](www.linkedin.com/in/marcelo-junior-8b041826b)
 ## Minhas Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width= 75/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width= 75 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width= 75 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width= 75/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width= 75 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width= 75 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= 75 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width= 75 />
+
+## Status 
+
+![Status do Msilva505](https://github-readme-stats.vercel.app/api?username=MSilva505&show_icons=true&theme=dark)
+          
           
           
           
@@ -22,3 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: https://github-readme-stats.vercel.app/api?username=MSilva505&show_icons=true&theme=dark
