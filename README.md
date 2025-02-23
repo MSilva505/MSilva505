@@ -1,6 +1,6 @@
 # Bem vindos ao meu GitHub!  😄
-- 🔭 Me chamo Marcelo.
-- 💬 Eu sou estudante de ADS 5 periodo - Fametro.
+- 🔭 Me chamo Marcelo Junior.
+- 💬 Eu sou Graduado em Analise e Desenvolvimento de Sistemas - Fametro.
 - ⚡ Estou colaborando a minha jornada como Dev e todos meus estudos de computação.
 - 📫  [acesse ao meu linkedIn.](www.linkedin.com/in/marcelo-junior-8b041826b)
 ## Minhas Tecnologias
