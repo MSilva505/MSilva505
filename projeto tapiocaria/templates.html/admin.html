@@ -1,0 +1,34 @@
+<!--codigo html das admin-->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administração - Tapiocaria Dona Ely</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>Relatório Financeiro</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Data</th>
+                <th>Descrição</th>
+                <th>Método de Pagamento</th>
+                <th>Valor</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for registro in registros %}
+            <tr>
+                <td>{{ registro.data_hora }}</td>
+                <td>{{ registro.descricao }}</td>
+                <td>{{ registro.metodo_pagamento }}</td>
+                <td>R$ {{ registro.valor }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
+<td>{{ registro.data_hora_formatada }}</td>

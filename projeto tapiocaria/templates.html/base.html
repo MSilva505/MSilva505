@@ -1,0 +1,28 @@
+<!--codigo html das base-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Tapiocaria da Dona Ely{% endblock %}</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body style="background-color: #001f3f; color: #FFD700; font-family: Arial, sans-serif;">
+
+    <!-- Header -->
+    <header style="text-align: center; padding: 20px;">
+        <h1 style="color: #FFD700;">Tapiocaria da Dona Ely</h1>
+        <nav>
+            <a href="/" style="color: #FFD700; margin: 0 10px;">Home</a>
+            <a href="/bebidas" style="color: #FFD700; margin: 0 10px;">Bebidas</a>
+            <!-- Adicionar outras categorias -->
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+</body>
+</html>

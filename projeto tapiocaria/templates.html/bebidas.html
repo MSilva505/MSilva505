@@ -1,0 +1,20 @@
+<!--codigo html das bebidas-->
+{% extends "base.html" %}
+{% block title %}Bebidas - Cardápio{% endblock %}
+
+{% block content %}
+<main style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 20px;">
+    {% for produto in produtos %}
+    <div style="background-color: #002952; border: 2px solid #FFD700; border-radius: 8px; width: 200px; text-align: center; padding: 10px;">
+        <img src="{{ produto.foto }}" alt="{{ produto.nome }}" style="width: 100%; border-bottom: 2px solid #FFD700;">
+        <h3 style="color: #FFD700; margin: 10px 0;">{{ produto.nome }}</h3>
+        <p style="color: #FFFFFF;">{{ produto.descricao }}</p>
+        {% if produto.ingredientes %}
+        <p style="color: #FFFFFF; font-size: 0.9em;">Ingredientes: {{ produto.ingredientes }}</p>
+        {% endif %}
+        <p style="color: #FFD700; font-weight: bold;">R$ {{ produto.preco }}</p>
+    </div>
+    {% endfor %}
+</main>
+{% endblock %}
+
