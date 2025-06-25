@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #MSilva505
 =======
 # Bem vindos ao meu GitHub!  😄
