@@ -1,8 +1,9 @@
-#MSilva505
+# MSilva505
 =======
-# Bem vindos ao meu GitHub!  😄
+## Bem vindos ao meu GitHub!  😄
 - 🔭 Me chamo Marcelo Junior.
-- 💬 Eu sou Graduado em Analise e Desenvolvimento de Sistemas - Fametro.
+- 💬 Eu sou Graduado em Analise e Desenvolvimento de Sistemas - Fametro
+- Estou fazendo Pós em Ciências de dados e big data - Estacio
 - ⚡ Estou colaborando a minha jornada como Dev e todos meus estudos de computação.
 - 📫  [acesse ao meu linkedIn.](www.linkedin.com/in/marcelo-junior-8b041826b)
 ## Minhas Tecnologias
